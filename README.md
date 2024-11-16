@@ -1,1 +1,1 @@
-### trust in Zermelo's Theorem.
+Trust in Well-ordering Theorem.
