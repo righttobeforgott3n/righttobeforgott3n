@@ -1,1 +1,1 @@
-Trust in Well-ordering Theorem.
+The devil is in the details
